@@ -1,6 +1,7 @@
 ## Web_Exploitation Category
 
-The callenges here are as Follows
+The callenges here are as Follows:-
+
 	* chrono (100 Points) **Solved**
 	* money-ware (100 Points) **Solved**
 	* Permissions (100 Points) **Solved**
