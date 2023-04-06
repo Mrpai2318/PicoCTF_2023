@@ -1,4 +1,4 @@
-## Web_Exploitation Category
+## General_Skills Category
 
 The callenges here are as Follows:-
   * chrono (100 Points) **Solved**
