@@ -21,4 +21,4 @@ We can see that Bitcoin Abuse Database looks very interesting.
 
 The highlighted part seems to be the name of the malware.
 
-Thus the flag I went with was:- picoCTF{Petya} 
+Thus the flag I went with was:- `picoCTF{Petya}` 
