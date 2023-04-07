@@ -19,4 +19,4 @@ Now what i did was go through the machine and found a challenge directory in the
 
 ![SS OF SHELL 2](2.png)
 
-The flag is:- picoCTF{Sch3DUL7NG_T45K3_L1NUX_9d5cb744}
+The flag is:- `picoCTF{Sch3DUL7NG_T45K3_L1NUX_9d5cb744}`
