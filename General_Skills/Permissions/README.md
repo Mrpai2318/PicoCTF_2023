@@ -17,4 +17,4 @@ So this challenge was exactly solved like `chrono` I was really surprised to see
 
 ![SS OF SHELL 2](2.png)
 
-The flag is:- picoCTF{uS1ng_v1m_3dit0r_89e9cf1a}
+The flag is:- `picoCTF{uS1ng_v1m_3dit0r_89e9cf1a}`
