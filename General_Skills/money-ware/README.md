@@ -15,10 +15,10 @@ So what I did first was I search up the bitcoin address up on google and got a v
 
 ![Google SS](1.png)
 
-We can see that Bitcoin Abuse Database looks very good so when i got to that site I see these things:-
+We can see that Bitcoin Abuse Database looks very interesting.
 
 ![Site SS](2.png)
 
-The highlighted thing looked interesting.
+The highlighted part seems to be the name of the malware.
 
 Thus the flag I went with was:- picoCTF{Petya} 
